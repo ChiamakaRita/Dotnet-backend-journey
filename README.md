@@ -26,12 +26,6 @@ I am learning by building small projects, writing notes, and improving step by s
 
 ## Progress Log
 
-### Week 1
-- Learned: ASP.NET Core basics
-- Built: First Hello World API
-- Challenges: Understanding routing and controllers
-- Next: Learn Controllers and API endpoints
-
 ## Why This Repo Exists
 I created this repository to:
 - Stay consistent
